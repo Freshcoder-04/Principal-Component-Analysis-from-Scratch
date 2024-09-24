@@ -30,7 +30,7 @@ $$ X_{reconstructed} = (X_reduced, components^T) + mean_vec $$
 ### Formula for reconstruction error
 $$ reconstruction_error = np.mean(np.abs(originaldDataset - reconstructedDataset)) $$
 
-## 2. Scree plot and optimum dimensions for reduction
+## 3. Scree plot and optimum dimensions for reduction
 
 The point of the scree plot is to know how many dimensions to consider so that most amount of information of our dataset is retained.
 
