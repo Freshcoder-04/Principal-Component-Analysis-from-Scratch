@@ -37,7 +37,7 @@ The point of the scree plot is to know how many dimensions to consider so that m
 ### Scree plot:
 ![alt text](figures/Scree_Plot.png)
 
-Here, we see that somewhere aruond the value 100 or a little higher, the addition of information is very less, so increasing the dimensions beyond that point isn't worth the tradeoff between complexity of our model and the information retained.
+Here, we see that somewhere around the value 100 or a little higher, the addition of information is very less, so increasing the dimensions beyond that point isn't worth the tradeoff between complexity of our model and the information retained.
 
 ### Optimal number of dimensions:
 $$ Dimensions_{optimum} = 100 $$
